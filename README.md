@@ -16,7 +16,7 @@ __Materialer:__
 
 __Aflevering:__
 * Du skal aflevere dit projekt(repository) På Github
-* Du har 5 dage til at udvikle webapplikationen.
+* Du har 7 dage til at udvikle webapplikationen.
 
 
 
